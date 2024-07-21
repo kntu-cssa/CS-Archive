@@ -1,5 +1,6 @@
 # آرشیو دروس علوم کامپیوتر دانشگاه صنعتی خواجه نصیرالدین طوسی
 این مخزن به کوشش انجمن علمی علوم کامپیوتر و دانشجویان این رشته تهیه شده و هدف آن تسهیل دسترسی به منابع درسی و اطلاعات مفید برای دانشجویان است.
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/KNTU_CSSA)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kntu_cssa)
 ## مقدمه
